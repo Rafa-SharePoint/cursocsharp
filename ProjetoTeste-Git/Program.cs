@@ -10,7 +10,7 @@ namespace ProjetoTeste_Git
             Console.WriteLine("Bom dia!");
             Console.WriteLine("Como estás?");
             Console.WriteLine("Ora essa!");
-
+            Console.WriteLine("Ora essa!");
             Console.ReadLine();
         }
     }
